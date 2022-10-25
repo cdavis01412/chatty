@@ -1,7 +1,3 @@
-// Christian Davis
-// Cld113
-// CS3354.225
-
 public class Main {
     public static void main(String[] args) throws Exception {
 

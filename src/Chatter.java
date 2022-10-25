@@ -1,7 +1,3 @@
-// Christian Davis
-// Cld113
-// CS3354.225
-
 import java.awt.*;
 import java.awt.event.*;
 import java.util.ArrayList;

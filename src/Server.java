@@ -1,7 +1,3 @@
-// Christian Davis
-// Cld113
-// CS3354.225
-
 import java.util.ArrayList;
 
 public class Server implements IChatter {
